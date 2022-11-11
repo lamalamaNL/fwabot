@@ -9,3 +9,5 @@ FWA_SLACK_WEBHOOK_URL="https://hooks.slack.com/services/T02UE2POA/B0415HIWKH5/ZD
 FWA_SLACK_CHANNEL="#fwa"
 FWA_CASE="Lama Lama"
 ```
+
+You'll find a little more details on these settings in the ```config/fwa.php``` config file.
