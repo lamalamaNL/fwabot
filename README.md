@@ -20,7 +20,6 @@ If you've found a bug regarding security please mail hi@lamalama.nl instead of u
 
 # Credits
 Mark de Vries
-All Contributors
 
 # License
 The MIT License (MIT). Please see License File for more information.
