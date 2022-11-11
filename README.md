@@ -11,3 +11,16 @@ FWA_CASE="Lama Lama"
 ```
 
 You'll find a little more details on these settings in the ```config/fwa.php``` config file.
+
+# Contributing
+Please see CONTRIBUTING for details.
+
+# Security
+If you've found a bug regarding security please mail hi@lamalama.nl instead of using the issue tracker.
+
+# Credits
+Mark de Vries
+All Contributors
+
+# License
+The MIT License (MIT). Please see License File for more information.
